@@ -1,0 +1,7 @@
+/.bundle
+/.librarian
+/.tmp
+/.vagrant
+/log
+/modules
+.tmp/
